@@ -111,6 +111,10 @@ a:active, a:focus, a:hover {
   left: 50%;
 }
 
+@media (min-width: 992px)
+#sideNav .navbar-collapse .navbar-nav {
+	color:#5E5E5E;
+}
 /* Fix the circle for containers on the right side */
 .timeline-right::after {
   left: -12px;
