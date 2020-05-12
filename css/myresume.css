@@ -95,8 +95,7 @@ a:active, a:focus, a:hover {
   height: 25px;
   right: -12px;
   background-color: white;
-  border: 4px solidp #EDB9FF;
-  border-style: double;
+  border: 4px double #EDB9FF;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
