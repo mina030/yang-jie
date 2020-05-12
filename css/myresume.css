@@ -140,8 +140,8 @@ a:active, a:focus, a:hover {
     left: 17px;
   }
 }
-img{border-style:double;
- margin: 5 rem}
+img{border-style:inset;
+ margin: 1 rem}
 .fas {
     font-weight: 1500;
 }
