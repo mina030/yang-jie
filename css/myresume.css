@@ -96,11 +96,11 @@ a:active, a:focus, a:hover {
   right: -12px;
   background-color: white;
   border: 4px solidp #EDB9FF;
+  border-style: double;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
 }
-.double {border-style: double;}
 
 /* Place the container to the left */
 .timeline-left {
