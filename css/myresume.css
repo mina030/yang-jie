@@ -66,7 +66,7 @@ a:active, a:focus, a:hover {
 
 .timeline {
   position: relative;
-  margin: 0.5rem;
+  margin: 0 auto;
 }
 
 .timeline::after {
@@ -140,7 +140,8 @@ a:active, a:focus, a:hover {
     left: 17px;
   }
 }
-img{border-style:double}
+img{border-style:double;
+ margin: 1 rem}
 .fas {
     font-weight: 1500;
 }
